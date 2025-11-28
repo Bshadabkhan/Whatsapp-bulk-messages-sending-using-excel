@@ -1,0 +1,66 @@
+2025-08-12 16:34:11,441 - INFO - Loaded 2 rows from ExcelData.xlsx
+2025-08-12 16:34:11,443 - INFO - Starting Chrome WebDriver...
+2025-08-12 16:34:21,819 - INFO - Using portable Chrome: C:\Users\User\Downloads\chrome-win64\chrome.exe
+2025-08-12 16:34:21,819 - INFO - ====== WebDriver manager ======
+2025-08-12 16:34:23,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-12 16:34:23,416 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-12 16:34:23,497 - INFO - Driver [C:\Users\User\.wdm\drivers\chromedriver\win64\139.0.7258.66\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-12 16:34:25,952 - INFO - WhatsApp Web opened. Waiting for login...
+2025-08-12 16:34:32,634 - INFO - WhatsApp Web interface detected
+2025-08-12 16:34:39,110 - INFO - Sending message 1/2 to 9019867456
+2025-08-12 16:35:22,543 - ERROR - Could not find or click attach button
+2025-08-12 16:35:22,543 - INFO - Retry attempt 2 for 9019867456
+2025-08-12 16:36:11,596 - ERROR - Could not find or click attach button
+2025-08-12 16:36:11,698 - INFO - Waiting 3 seconds before next message...
+2025-08-12 16:36:14,700 - INFO - Sending message 2/2 to 7204989735
+2025-08-12 16:36:55,431 - ERROR - Could not find or click attach button
+2025-08-12 16:36:55,431 - INFO - Retry attempt 2 for 7204989735
+2025-08-12 16:37:38,099 - ERROR - Could not find or click attach button
+2025-08-12 16:37:38,103 - INFO - Cleaning up...
+2025-08-12 16:37:43,657 - INFO - === FINAL STATISTICS ===
+2025-08-12 16:37:43,659 - INFO - Total contacts: 2
+2025-08-12 16:37:43,659 - INFO - Successfully sent: 0
+2025-08-12 16:37:43,659 - INFO - Failed: 2
+2025-08-12 16:37:43,659 - INFO - Skipped (invalid): 0
+2025-08-12 16:37:43,661 - INFO - Success rate: 0.0%
+2025-08-12 16:40:23,193 - INFO - Loaded 2 rows from ExcelData.xlsx
+2025-08-12 16:40:23,209 - INFO - Starting Chrome WebDriver...
+2025-08-12 16:40:33,609 - INFO - Using portable Chrome: C:\Users\User\Downloads\chrome-win64\chrome.exe
+2025-08-12 16:40:38,086 - INFO - WhatsApp Web opened. Waiting for login...
+2025-08-12 16:40:45,425 - INFO - WhatsApp Web interface detected
+2025-08-12 16:40:51,757 - INFO - Sending message 1/2 to 9019867456
+2025-08-12 16:41:30,806 - INFO - [SUCCESS] Message sent to 9019867456
+2025-08-12 16:41:30,812 - INFO - Waiting 3 seconds before next message...
+2025-08-12 16:41:33,817 - INFO - Sending message 2/2 to 7204989735
+2025-08-12 16:42:20,857 - INFO - [SUCCESS] Message sent to 7204989735
+2025-08-12 16:42:20,897 - INFO - Cleaning up...
+2025-08-12 16:42:26,561 - INFO - === FINAL STATISTICS ===
+2025-08-12 16:42:26,566 - INFO - Total contacts: 2
+2025-08-12 16:42:26,572 - INFO - Successfully sent: 2
+2025-08-12 16:42:26,577 - INFO - Failed: 0
+2025-08-12 16:42:26,580 - INFO - Skipped (invalid): 0
+2025-08-12 16:42:26,583 - INFO - Success rate: 100.0%
+2025-08-12 16:46:51,537 - INFO - Loaded 3 rows from ExcelData.xlsx
+2025-08-12 16:46:51,537 - INFO - Starting Chrome WebDriver...
+2025-08-12 16:47:02,008 - INFO - Using portable Chrome: C:\Users\User\Downloads\chrome-win64\chrome.exe
+2025-08-12 16:47:06,069 - INFO - WhatsApp Web opened. Waiting for login...
+2025-08-12 16:47:13,065 - INFO - WhatsApp Web interface detected
+2025-08-12 16:47:20,778 - INFO - Sending message 1/3 to 9019867456
+2025-08-12 16:47:55,958 - INFO - [SUCCESS] Message sent to 9019867456
+2025-08-12 16:47:55,963 - INFO - Waiting 3 seconds before next message...
+2025-08-12 16:47:58,969 - INFO - Sending message 2/3 to 7204989735
+2025-08-12 16:48:37,427 - INFO - [SUCCESS] Message sent to 7204989735
+2025-08-12 16:48:37,437 - INFO - Waiting 3 seconds before next message...
+2025-08-12 16:48:40,460 - INFO - Sending message 3/3 to 7019201325
+2025-08-12 16:49:37,715 - ERROR - Could not find or click attach button
+2025-08-12 16:49:37,724 - INFO - Retry attempt 2 for 7019201325
+2025-08-12 16:50:32,669 - INFO - [SUCCESS] Message sent to 7019201325
+2025-08-12 16:50:32,699 - INFO - Cleaning up...
+2025-08-12 16:50:38,312 - INFO - === FINAL STATISTICS ===
+2025-08-12 16:50:38,317 - INFO - Total contacts: 3
+2025-08-12 16:50:38,323 - INFO - Successfully sent: 3
+2025-08-12 16:50:38,331 - INFO - Failed: 0
+2025-08-12 16:50:38,332 - INFO - Skipped (invalid): 0
+2025-08-12 16:50:38,333 - INFO - Success rate: 100.0%
+2025-08-21 12:44:20,409 - INFO - Loaded 3 rows from ExcelData.xlsx
+2025-08-21 12:44:20,462 - INFO - Starting Chrome WebDriver...

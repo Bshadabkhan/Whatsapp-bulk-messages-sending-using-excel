@@ -1,0 +1,20 @@
+[10424:20856:0812/163424.419:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[10424:20856:0812/163424.419:ERROR:gpu\ipc\service\gpu_channel_manager.cc:927] Failed to create GLES3 context, fallback to GLES2.
+[10424:20856:0812/163424.421:ERROR:gpu\ipc\service\gpu_channel_manager.cc:938] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[5164:19680:0812/163424.500:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[17956:6744:0812/163424.508:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[10424:20856:0812/163424.620:ERROR:gpu\ipc\service\gpu_channel_manager.cc:927] Failed to create GLES3 context, fallback to GLES2.
+[10424:20856:0812/163424.624:ERROR:gpu\ipc\service\gpu_channel_manager.cc:938] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[10424:20856:0812/163424.624:ERROR:gpu\ipc\service\gpu_channel_manager.cc:927] Failed to create GLES3 context, fallback to GLES2.
+[10424:20856:0812/163424.624:ERROR:gpu\ipc\service\gpu_channel_manager.cc:938] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[3728:26832:0812/163424.991:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[22624:17112:0812/163425.072:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[30576:31892:0812/163425.420:INFO:CONSOLE:114] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/ye/r/wLckq89CJfi.js (114)
+[13372:28972:0812/163425.534:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[19316:7684:0812/163437.269:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[30576:19496:0812/163437.405:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[30576:19496:0812/163459.928:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[30576:31892:0812/163516.862:INFO:CONSOLE:114] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/ye/r/wLckq89CJfi.js (114)
+[30576:19496:0812/163559.401:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[30576:31892:0812/163639.873:ERROR:components\device_event_log\device_event_log_impl.cc:198] [16:36:39.874] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25008:13208:0812/163741.205:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
