@@ -9,7 +9,7 @@ Ideal for promotions, client communication, bulk outreach, and non-API messaging
 
 📬 Contact / Support
 
-📱 Telegram: https://t.me/inforkgodara
+📱 GitHub: https://github.com/Bshadabkhan
 
 💬 Feel free to reach out for help, fixes, or custom automation scripts.
 
